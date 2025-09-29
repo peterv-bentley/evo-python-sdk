@@ -11,6 +11,9 @@ changelog:
     - title: evo-sdk-common
       labels:
         - evo-sdk-common
+    - title: evo-blockmodel
+      labels:
+        - evo-blockmodel
     - title: evo-files
       labels:
         - evo-files
